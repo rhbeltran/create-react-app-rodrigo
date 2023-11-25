@@ -1,4 +1,4 @@
-import logo from 'https://pbs.twimg.com/media/FNNVF4TX0BI_SJw.jpg'; 
+import logo from './logo.svg'; 
 import './App.css';
 
 function App() {
